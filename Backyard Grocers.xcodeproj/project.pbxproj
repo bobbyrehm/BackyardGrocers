@@ -36,14 +36,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		C51A56C51914BFE5005805C7 /* Family Foods Grocers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Family Foods Grocers.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C51A56C51914BFE5005805C7 /* Backyard Grocers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Backyard Grocers.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C51A56C81914BFE5005805C7 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		C51A56CA1914BFE5005805C7 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		C51A56CC1914BFE5005805C7 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		C51A56D01914BFE5005805C7 /* Family Foods Grocers-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Family Foods Grocers-Info.plist"; sourceTree = "<group>"; };
+		C51A56D01914BFE5005805C7 /* Backyard Grocers-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Backyard Grocers-Info.plist"; sourceTree = "<group>"; };
 		C51A56D21914BFE5005805C7 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		C51A56D41914BFE5005805C7 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		C51A56D61914BFE5005805C7 /* Family Foods Grocers-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Family Foods Grocers-Prefix.pch"; sourceTree = "<group>"; };
+		C51A56D61914BFE5005805C7 /* Backyard Grocers-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Backyard Grocers-Prefix.pch"; sourceTree = "<group>"; };
 		C51A56D71914BFE5005805C7 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		C51A56D81914BFE5005805C7 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		C51A56DB1914BFE5005805C7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPhone.storyboard; sourceTree = "<group>"; };
@@ -53,9 +53,9 @@
 		C51A56E31914BFE5005805C7 /* SecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
 		C51A56E41914BFE5005805C7 /* SecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
 		C51A56E61914BFE5005805C7 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		C51A56EC1914BFE5005805C7 /* Family Foods GrocersTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Family Foods GrocersTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C51A56EC1914BFE5005805C7 /* Backyard GrocersTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Backyard GrocersTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C51A56ED1914BFE5005805C7 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
-		C51A56F51914BFE5005805C7 /* Family Foods GrocersTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Family Foods GrocersTests-Info.plist"; sourceTree = "<group>"; };
+		C51A56F51914BFE5005805C7 /* Backyard GrocersTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Backyard GrocersTests-Info.plist"; sourceTree = "<group>"; };
 		C51A56F71914BFE5005805C7 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		C51A56F91914BFE5005805C7 /* Family_Foods_GrocersTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Family_Foods_GrocersTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -97,8 +97,8 @@
 		C51A56C61914BFE5005805C7 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				C51A56C51914BFE5005805C7 /* Family Foods Grocers.app */,
-				C51A56EC1914BFE5005805C7 /* Family Foods GrocersTests.xctest */,
+				C51A56C51914BFE5005805C7 /* Backyard Grocers.app */,
+				C51A56EC1914BFE5005805C7 /* Backyard GrocersTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -134,10 +134,10 @@
 		C51A56CF1914BFE5005805C7 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				C51A56D01914BFE5005805C7 /* Family Foods Grocers-Info.plist */,
+				C51A56D01914BFE5005805C7 /* Backyard Grocers-Info.plist */,
 				C51A56D11914BFE5005805C7 /* InfoPlist.strings */,
 				C51A56D41914BFE5005805C7 /* main.m */,
-				C51A56D61914BFE5005805C7 /* Family Foods Grocers-Prefix.pch */,
+				C51A56D61914BFE5005805C7 /* Backyard Grocers-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -154,7 +154,7 @@
 		C51A56F41914BFE5005805C7 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				C51A56F51914BFE5005805C7 /* Family Foods GrocersTests-Info.plist */,
+				C51A56F51914BFE5005805C7 /* Backyard GrocersTests-Info.plist */,
 				C51A56F61914BFE5005805C7 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
@@ -163,9 +163,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		C51A56C41914BFE5005805C7 /* Family Foods Grocers */ = {
+		C51A56C41914BFE5005805C7 /* Backyard Grocers */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C51A56FD1914BFE5005805C7 /* Build configuration list for PBXNativeTarget "Family Foods Grocers" */;
+			buildConfigurationList = C51A56FD1914BFE5005805C7 /* Build configuration list for PBXNativeTarget "Backyard Grocers" */;
 			buildPhases = (
 				C51A56C11914BFE5005805C7 /* Sources */,
 				C51A56C21914BFE5005805C7 /* Frameworks */,
@@ -175,14 +175,14 @@
 			);
 			dependencies = (
 			);
-			name = "Family Foods Grocers";
+			name = "Backyard Grocers";
 			productName = "Family Foods Grocers";
-			productReference = C51A56C51914BFE5005805C7 /* Family Foods Grocers.app */;
+			productReference = C51A56C51914BFE5005805C7 /* Backyard Grocers.app */;
 			productType = "com.apple.product-type.application";
 		};
-		C51A56EB1914BFE5005805C7 /* Family Foods GrocersTests */ = {
+		C51A56EB1914BFE5005805C7 /* Backyard GrocersTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C51A57001914BFE5005805C7 /* Build configuration list for PBXNativeTarget "Family Foods GrocersTests" */;
+			buildConfigurationList = C51A57001914BFE5005805C7 /* Build configuration list for PBXNativeTarget "Backyard GrocersTests" */;
 			buildPhases = (
 				C51A56E81914BFE5005805C7 /* Sources */,
 				C51A56E91914BFE5005805C7 /* Frameworks */,
@@ -193,9 +193,9 @@
 			dependencies = (
 				C51A56F21914BFE5005805C7 /* PBXTargetDependency */,
 			);
-			name = "Family Foods GrocersTests";
+			name = "Backyard GrocersTests";
 			productName = "Family Foods GrocersTests";
-			productReference = C51A56EC1914BFE5005805C7 /* Family Foods GrocersTests.xctest */;
+			productReference = C51A56EC1914BFE5005805C7 /* Backyard GrocersTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -212,7 +212,7 @@
 					};
 				};
 			};
-			buildConfigurationList = C51A56C01914BFE5005805C7 /* Build configuration list for PBXProject "Family Foods Grocers" */;
+			buildConfigurationList = C51A56C01914BFE5005805C7 /* Build configuration list for PBXProject "Backyard Grocers" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -225,8 +225,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				C51A56C41914BFE5005805C7 /* Family Foods Grocers */,
-				C51A56EB1914BFE5005805C7 /* Family Foods GrocersTests */,
+				C51A56C41914BFE5005805C7 /* Backyard Grocers */,
+				C51A56EB1914BFE5005805C7 /* Backyard GrocersTests */,
 			);
 		};
 /* End PBXProject section */
@@ -278,7 +278,7 @@
 /* Begin PBXTargetDependency section */
 		C51A56F21914BFE5005805C7 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = C51A56C41914BFE5005805C7 /* Family Foods Grocers */;
+			target = C51A56C41914BFE5005805C7 /* Backyard Grocers */;
 			targetProxy = C51A56F11914BFE5005805C7 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -397,9 +397,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "Family Foods Grocers/Family Foods Grocers-Prefix.pch";
-				INFOPLIST_FILE = "Family Foods Grocers/Family Foods Grocers-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "Family Foods Grocers/Backyard Grocers-Prefix.pch";
+				INFOPLIST_FILE = "Family Foods Grocers/Backyard Grocers-Info.plist";
+				PRODUCT_NAME = "Backyard Grocers";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -410,9 +410,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "Family Foods Grocers/Family Foods Grocers-Prefix.pch";
-				INFOPLIST_FILE = "Family Foods Grocers/Family Foods Grocers-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "Family Foods Grocers/Backyard Grocers-Prefix.pch";
+				INFOPLIST_FILE = "Family Foods Grocers/Backyard Grocers-Info.plist";
+				PRODUCT_NAME = "Backyard Grocers";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -432,8 +432,8 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "Family Foods GrocersTests/Family Foods GrocersTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "Family Foods GrocersTests/Backyard GrocersTests-Info.plist";
+				PRODUCT_NAME = "Backyard GrocersTests";
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -450,8 +450,8 @@
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Family Foods Grocers/Family Foods Grocers-Prefix.pch";
-				INFOPLIST_FILE = "Family Foods GrocersTests/Family Foods GrocersTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "Family Foods GrocersTests/Backyard GrocersTests-Info.plist";
+				PRODUCT_NAME = "Backyard GrocersTests";
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -460,7 +460,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		C51A56C01914BFE5005805C7 /* Build configuration list for PBXProject "Family Foods Grocers" */ = {
+		C51A56C01914BFE5005805C7 /* Build configuration list for PBXProject "Backyard Grocers" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C51A56FB1914BFE5005805C7 /* Debug */,
@@ -469,21 +469,23 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C51A56FD1914BFE5005805C7 /* Build configuration list for PBXNativeTarget "Family Foods Grocers" */ = {
+		C51A56FD1914BFE5005805C7 /* Build configuration list for PBXNativeTarget "Backyard Grocers" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C51A56FE1914BFE5005805C7 /* Debug */,
 				C51A56FF1914BFE5005805C7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		C51A57001914BFE5005805C7 /* Build configuration list for PBXNativeTarget "Family Foods GrocersTests" */ = {
+		C51A57001914BFE5005805C7 /* Build configuration list for PBXNativeTarget "Backyard GrocersTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C51A57011914BFE5005805C7 /* Debug */,
 				C51A57021914BFE5005805C7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
