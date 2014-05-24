@@ -1,18 +1,18 @@
 //
-//  Family_Foods_GrocersTests.m
-//  Family Foods GrocersTests
+//  Backyard_GrocersTests.m
+//  Backyard GrocersTests
 //
-//  Created by Bobby Rehm on 5/3/14.
+//  Created by Bobby Rehm on 5/24/14.
 //  Copyright (c) 2014 Bobby Rehm. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
 
-@interface Family_Foods_GrocersTests : XCTestCase
+@interface Backyard_GrocersTests : XCTestCase
 
 @end
 
-@implementation Family_Foods_GrocersTests
+@implementation Backyard_GrocersTests
 
 - (void)setUp
 {
